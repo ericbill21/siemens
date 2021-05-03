@@ -10,4 +10,4 @@ Additionally, we detect predictions that are less certain than a determined thre
 
 Moreover, we describe the approach taken to determine a probability estimate for misclassifications: As training data quality is crucial to model performance and dependability, we develop several interpretations of training data and use these as indicators to estimate model accuracy. 
 
-For the three given datasets, our approach provides reliable (though not guaranteed) misclassification rates no larger than 6.89%, 2.34%, and 2.62%, respectively.
+For the three given datasets, our approach provides reliable (though not guaranteed) misclassification rates no larger than 15.23%, 8.63%, and 5.45%, respectively.
