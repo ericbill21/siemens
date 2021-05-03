@@ -11,3 +11,4 @@ Additionally, we detect predictions that are less certain than a determined thre
 Moreover, we describe the approach taken to determine a probability estimate for misclassifications: As training data quality is crucial to model performance and dependability, we develop several interpretations of training data and use these as indicators to estimate model accuracy. 
 
 For the three given datasets, our approach provides reliable (though not guaranteed) misclassification rates no larger than 15.23%, 8.63%, and 5.45%, respectively.
+![plot](siemens/Collected Data & Figures/Weighted Misclass Probability B 02-05-2021/Weighted_Total_Misclass_Prob_B_model_0_02-05-2021.pdf)
