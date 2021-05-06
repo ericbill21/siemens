@@ -1,4 +1,4 @@
-# Siemens Mobility’s AI Dependability Assessment
+# Siemens Mobility’s AI Dependability Assessment Challenge
 
 Dependability and reliability of machine learning classification systems are getting increasingly important as machine learning techniques are being applied in more and more domains, including safety-critical areas.
 The task of the Siemens AI Dependability Assessment Student's Challenge is to provide a classifier for a given classification tasks as well as to determine an as-accurate-as-possible misclassification probability estimate.
