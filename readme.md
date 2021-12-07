@@ -15,5 +15,5 @@ For the three given datasets, our approach provides reliable (though not guarant
 ## Dataset C
 ![alt text](https://github.com/ericbill21/siemens/blob/master/Collected%20Data%20%26%20Figures/datasets/Dataset_C.png?raw=true)
 
-## Probabilty of Misclassification for C
+## Weighted misclassification probability for dataset C
 ![alt text](https://github.com/ericbill21/siemens/blob/master/Collected%20Data%20%26%20Figures/Weighted%20Misclass%20Probability%20C%2002-05-2021/Weighted_Total_Misclass_Prob_C_model_0_02-05-2021.png?raw=true)
