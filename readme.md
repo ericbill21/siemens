@@ -1,5 +1,3 @@
-Bob stinkt (nach Erc's mom)
-
 Tasks:
 - [ ] Plot penalty vs number of red/green misclassifications
 - [ ] Namens- und Funktionsgrundstruktur überlegen
